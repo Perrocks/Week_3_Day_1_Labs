@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body > header {
+    background-color: skyblue;
+}
+body > header > h1{
+    color:white;
+}
+
+body > header > nav > ul{
+    list-style: none;
+    color: white;
+    
+}
+
+#MainArticle {
+    padding: 100px;
+}
+
+#CommentsSection{
+    padding: 100px;
+}
+
+#BottomofPage{
+    text-align: center;
+    background-color: skyblue;
+    
+}
